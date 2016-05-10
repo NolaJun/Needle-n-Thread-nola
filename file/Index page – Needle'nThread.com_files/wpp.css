@@ -1,0 +1,1139 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<head profile="http://gmpg.org/xfn/11">
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<title>
+
+  Mary Corbet&#8217;s Needle &#8216;N Thread
+
+
+</title>
+
+
+<link rel="stylesheet" href="http://www.needlenthread.com/wp-content/themes/needles/style.css" type="text/css" media="screen" />
+<!--[if lt IE 8]>
+    <link href="http://www.needlenthread.com/wp-content/themes/needles/includes/css/ie-lt8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/needlenthread"  />
+
+
+
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://feeds.feedburner.com/needlenthread"  />
+
+
+
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://feeds.feedburner.com/needlenthread" />
+
+
+
+<link rel="pingback" href="http://www.needlenthread.com/xmlrpc.php" />
+
+
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+
+
+<meta name="Theme" content="Timeless" />
+
+
+
+<meta name="Author" content="Roam2Rome" />
+
+
+
+<script type="text/javascript">var templateurl = 'http://www.needlenthread.com/wp-content/themes/needles'</script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+
+
+<script type="text/javascript" src="http://www.needlenthread.com/wp-content/themes/needles/js/jquery.easing.1.2.js"></script>
+
+
+
+<script type="text/javascript">
+
+
+
+function clearDefault(el) {
+
+  if (el.defaultValue==el.value) el.value = ""
+
+}
+
+
+
+
+
+    
+
+
+
+
+
+
+
+        function formatText(index, panel) {
+
+
+
+
+
+
+
+		  return index + "";
+
+
+
+
+
+
+
+	    }
+
+
+
+    </script>
+
+
+
+<script type="text/javascript">
+
+
+
+		function MM_swapImgRestore() { //v3.0
+
+
+
+		  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+
+
+
+		}
+
+
+
+		function MM_preloadImages() { //v3.0
+
+
+
+		  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+
+
+
+			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+
+
+
+			if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+
+
+
+		}
+
+
+
+		
+
+
+
+		function MM_findObj(n, d) { //v4.01
+
+
+
+		  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+
+
+
+			d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+
+
+
+		  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+
+
+
+		  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+
+
+
+		  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+
+
+		}
+
+
+
+		
+
+
+
+		function MM_swapImage() { //v3.0
+
+
+
+		  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+
+
+
+		   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+
+
+		}
+
+
+
+	</script>
+
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.needlenthread.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpcf-css'  href='http://www.needlenthread.com/wp-content/plugins/wp-contact-form/wpcf.css?ver=20110218' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.6 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-16162188-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<link rel='https://api.w.org/' href='http://www.needlenthread.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.needlenthread.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.needlenthread.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.3" />
+<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<!-- HeadSpace -->
+
+<!-- Using Simple Yearly Archive Plugin v1.7.4 | http://www.schloebe.de/wordpress/simple-yearly-archive-plugin/ // -->
+<meta property="og:site_name" content="NeedlenThread.com" />
+
+
+
+</head>
+
+
+
+<body onload="MM_preloadImages('http://www.needlenthread.com/wp-content/themes/needles/images/english_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/german_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/french_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/spanish_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/swedish_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/email_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/facebook_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/twitter_over.png','http://www.needlenthread.com/wp-content/themes/needles/images/print_over.png')">
+
+
+
+<div id="c_wrapper">
+
+
+
+<div id="c_container">
+
+
+
+<div id="c_header">
+
+
+
+<div class="top_header"></div>
+
+
+
+<div class="content_header">
+
+
+
+  <div class="header_logo"><img src="/wp-content/themes/needles/images/header.jpg" width="960" height="200" alt="Mary Corbet's Needle 'n Thread - Tips, Tricks &amp; Great Resources for Hand Embroidery" /></div>
+
+
+
+</div>
+
+
+
+<div id="c_navigator">
+
+
+
+  <div class="navigator">
+
+
+
+    <ul>
+
+
+
+      <li><a href="/"><img src="/wp-content/themes/needles/images/Main-Nav/Home.gif" width="54" height="24" alt=" Home" /></a></li>
+
+
+
+      <li><img src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" width="1" height="29" /></li>
+
+
+
+      <li><a href="/videos" title="How To Videos"><img src="/wp-content/themes/needles/images/Main-Nav/How-To-Videos.gif" width="133" height="24" alt="How To Videos" /></a></li>
+
+
+
+      <li><img src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" width="1" height="29" /></li>
+
+
+
+      <li><a href="/tips-techniques" title="Tips &amp; Techniques"><img src="/wp-content/themes/needles/images/Main-Nav/Tips-and-Techniques.gif" width="159" height="24" alt="Tips and Techniques" /></a></li>
+
+
+
+      <li><img src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" width="1" height="29" /></li>
+
+
+
+      <li><a href="/patterns" title="Patterns"><img src="/wp-content/themes/needles/images/Main-Nav/Patterns.gif" width="71" height="24" alt="Patterns" /></a></li>
+
+
+      <li><img src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" width="1" height="29" /></li>	  	  <li><a title="Ask & Share" href="/forum/"><img alt="Ask And Share" src="/wp-content/themes/needles/images/Main-Nav/Ask-and-Share.gif" /></a></li>                  <li><img height="29" width="1" src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" /></li>				  
+
+
+
+      <li><a href="/books-links" title="Books"><img src="/wp-content/themes/needles/images/Main-Nav/books.gif" width="54" height="24" alt="Books" /></a></li><li><img height="29" width="1" src="/wp-content/themes/needles/images/Main-Nav/main-nav-pipe.gif" /></li>	
+
+	<li><a href="http://shop.needlenthread.com/" title="Shop"><img src="/wp-content/themes/needles/images/Main-Nav/shop.gif" width="45" height="24" alt="Shop" /></a></li>
+
+
+    </ul>
+
+
+
+  </div>
+
+
+
+</div>
+
+
+
+
+<div id="c_content">
+<div id="content">
+<div id="leftbar" style="margin-top:5px;">
+  
+    
+  <div id="leftbar">
+  <!--[if IE]>
+<style type="text/css">
+.lefts {padding-left: 0px; margin-left:0px;}
+.footerleft input {padding-left:7px;}
+.post_index .img_shadow-wrap {background:none;}
+#post_entry {width:463px;}
+</style>
+<![endif]-->
+  <!--[if lt IE 7.]>
+<style type="text/css">
+#share {margin-top:-10px;}
+</style>
+<![endif]-->
+  <div id="sidebar1">
+    <div id="share" class="lwidget">
+      <script type="text/javascript">
+var addthis_config = {
+	username: "needlenthread",
+	services_compact: 'email, pinterest, print, favorites, twitter, delicious, facebook, more',
+	//ui_offset_left: 0,
+	ui_offset_top: -15,
+	ui_click: true,
+	ui_hover_direction: 1
+}
+</script>
+      <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+      <style type="text/css">
+#em, #fbk, #twit, #prnt {cursor:pointer}
+</style>
+	
+	<!-- Share or Save This Page -->
+      <h3 id="sh"><img src="/wp-content/themes/needles/images/widgets/Share-or-save-this-page.gif" width="85" height="33" alt="Share or Save this page" /></h3>
+      <ul>
+        <li style="left:00px;"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/email.png" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('em','','http://www.needlenthread.com/wp-content/themes/needles/images/email_over.png',1)" alt="Email" name="em" width="31" height="28" border="0" id="em" onclick="return addthis_sendto('email');" />
+          <div style="left:0px;"><a href="#" onclick="return addthis_sendto('email');">Email This Page</a></div>
+        </li>
+        <li style="left:31px;"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/facebook.png" alt="Facebook" name="fbk" width="32" height="28" border="0" id="fbk" onclick="return addthis_sendto('facebook');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fbk','','http://www.needlenthread.com/wp-content/themes/needles/images/facebook_over.png',1)" />
+          <div style="top:-55px; left:-22px;"><a href="#" onclick="return addthis_sendto('facebook');" style="border-bottom:solid; border-bottom-width:1px; border-bottom-color:#ede8e4;">Share This Page</a><a href="http://www.facebook.com/pages/Mary-Corbets-Needle-n-Thread/355247539382?ref=mf" target="_blank">Become a Fan on Facebook</a></div>
+        </li>
+        <li style="left:64px;"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/twitter.png" alt="Twitter" name="twit" width="33" height="28" border="0" id="twit" onclick="return addthis_sendto('twitter');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('twit','','http://www.needlenthread.com/wp-content/themes/needles/images/twitter_over.png',1)" />
+          <div style="top:-55px; left:-48px; width:118px;"><a href="#" onclick="return addthis_sendto('twitter');" style="border-bottom:solid; border-bottom-width:1px; border-bottom-color:#ede8e4; width:110px;">Share This Page</a><a href="http://twitter.com/MaryCorbet" target="_blank" style="width:110px;">Follow Needle 'n Thread on Twitter</a></div>
+        </li>
+        <li style="left:98px;"><a href="http://pinterest.com/marycorbet/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cspin','','http://www.needlenthread.com/wp-content/themes/needles/images/pinterest-top-left-hover.png',1)" target="_blank"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/pinterest-top-left.png" alt="Pinterest" name="cspin" width="32" height="28" border="0" id="prnt" /></a>
+          <div style="top:-55px; left:-62px;"><a href="javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" style="border-bottom:solid; border-bottom-width:1px; border-bottom-color:#ede8e4;">Pin This Page</a><a href="http://pinterest.com/marycorbet/" target="_blank">Follow Us on Pinterest</a></div>
+        </li>
+      </ul>
+      <!--<img src="http://www.needlenthread.com/wp-content/themes/needles/images/email.png" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('em','','http://www.needlenthread.com/wp-content/themes/needles/images/email_over.png',1)" alt="Email" name="em" width="31" height="28" border="0" id="em" onclick="return addthis_sendto('email');" /><img src="http://www.needlenthread.com/wp-content/themes/needles/images/facebook.png" alt="Facebook" name="fbk" width="32" height="28" border="0" id="fbk" onclick="return addthis_sendto('facebook');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('fbk','','http://www.needlenthread.com/wp-content/themes/needles/images/facebook_over.png',1)" /><img src="http://www.needlenthread.com/wp-content/themes/needles/images/twitter.png" alt="Twitter" name="twit" width="33" height="28" border="0" id="twit" onclick="return addthis_sendto('twitter');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('twit','','http://www.needlenthread.com/wp-content/themes/needles/images/twitter_over.png',1)" /><a href="javascript:window.print();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('prnt','','http://www.needlenthread.com/wp-content/themes/needles/images/print_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/print.png" alt="Print" name="prnt" width="32" height="28" border="0" id="prnt" /></a>-->
+      <p style="margin-bottom:0px; margin-top:45px;"><a class="addthis_button" href="http://www.addthis.com/bookmark.php">more options &gt;</a></p>
+    </div>
+    
+    
+    
+   <!-- LEFT COLUMN AD -->
+    <div class="lwidget" style="padding-top:0px; padding-bottom:10px;">
+    	<a href="http://www.nordicneedle.com" target="_blank"><img src="http://www.needlenthread.com/wp-content/uploads/2013/12/01-Nordic-Needle.gif" alt="Nordic Needle" width="145" height="144" border="0" /></a>
+    </div>
+    <!-- END LEFT COLUMN AD -->
+    
+    
+    
+    <!-- Search -->
+    <div class="lwidget">
+      <form method="get" action="/index.php" id="left-search">
+        <input name="s" type="text" class="lefts"  value="Search Site"  onFocus="clearDefault(this)"/>
+        <input type="submit" value="" class="leftss" />
+      </form>
+    </div>
+	
+	<!-- Translate -->
+    <div class="lwidget">
+      <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+      <script type="text/javascript">
+        google.load("language", "1");
+		var elms = [];
+		$(document).ready( function(){
+			 $('#post_entry').find('p, h1, h2').each(function(index){
+				window.elms.push($(this));
+			});
+			/*window.elms += [
+				$('div.post_info h1 a')[0],
+			]*/
+		})
+        function translate(desiredLang){ 
+            /*for (var i in elms){
+				if(elms[i][0].innerHTML){		
+               		sendTranslate(elms[i][0], desiredLang);
+				}
+            }
+			*/
+			window.location.hash = "#googtrans(en|" + desiredLang +")";
+			window.location.reload();
+        }
+        function sendTranslate(el, desiredLang){
+            var text = el.innerHTML;
+            google.language.detect(text, function(result) {
+                if (!result.error && result.language) {
+                    google.language.translate(text, result.language, desiredLang,
+                    function(result) {
+                        var translated = el;
+                        if (result.translation) {
+                          translated.innerHTML = result.translation;
+                        }
+                    });
+                }
+            });
+        }
+    </script>
+      <h3><img src="/wp-content/themes/needles/images/widgets/Translate-this-page.gif" width="123" height="16" alt="Translate This Page" /></h3>
+      <a href="#googtrans(en|en)" onclick="translate('en')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('english','','http://www.needlenthread.com/wp-content/themes/needles/images/english_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/english.png" alt="English" name="english" width="26" height="14" border="0" id="english" /></a><a href="#googtrans(en|de)" onclick="translate('de')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('german','','http://www.needlenthread.com/wp-content/themes/needles/images/german_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/german.png" alt="German" name="german" width="26" height="14" border="0" id="german" /></a><a href="#googtrans(en|fr)" onclick="translate('fr')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('french','','http://www.needlenthread.com/wp-content/themes/needles/images/french_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/french.png" alt="French" name="french" width="25" height="14" border="0" id="french" /></a><a href="#googtrans(en|es)" onclick="translate('es')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('spanish','','http://www.needlenthread.com/wp-content/themes/needles/images/spanish_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/spanish.png" alt="Spanish" name="spanish" width="26" height="14" border="0" id="spanish" /></a><a href="#googtrans(en|sv)" onclick="translate('sv')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('swedish','','http://www.needlenthread.com/wp-content/themes/needles/images/swedish_over.png',1)"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/swedish.png" name="swedish" width="27" height="14" border="0" id="swedish" /></a>
+      <div id="lclangoptions"><a href="#">Language Options</a>
+        <div style="width:191px; height:59px; background:url(/wp-content/themes/needles/images/widgets/translate-overlay-bkgd.gif); background-repeat:no-repeat; background-position:left top;">
+          <div id="google_translate_element"></div>
+          <script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script>
+          <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        </div>
+      </div>
+    </div>
+
+<!-- LEFT COLUMN AD -->
+    <div class="lwidget" style="padding-top:0px; padding-bottom:10px;">
+    	<a href="http://www.inspirationsmagazine.com.au/" target="_blank"><img src="http://www.needlenthread.com/wp-content/uploads/2015/02/inspirations-magazine-feb-2015.jpg" alt="Inspirations Magazine” width="145” height="320” border="0" /></a>
+    </div>
+    <!-- END LEFT COLUMN AD -->
+
+<!-- LEFT COLUMN AD -->
+    <div class="lwidget" style="padding-top:0px; padding-bottom:10px;">
+    	<a href="http://www.crewelwork.com/blog/workshops-retreats/" target="_blank"><img src="http://www.needlenthread.com/wp-content/uploads/2016/01/crewel-work-company-02-16.jpg" alt="Phillipa Turnbull Crewel Work Company” width="145" height="294” border="0" /></a>
+    </div>
+    <!-- END LEFT COLUMN AD -->
+
+<div class="lwidget">
+      <h3><img src="/wp-content/themes/needles/images/widgets/Recent-Posts.gif" width="78" height="11" alt="Recent Posts"></h3>
+      <ul>
+        	<li><a href='http://www.needlenthread.com/2016/05/readers-embroidery-new-ideas-for-a-lavender-needlebook.html'>Reader&#8217;s Embroidery: New Ideas for a Lavender Needlebook</a></li>
+	<li><a href='http://www.needlenthread.com/2016/05/bead-embroidery-funky-mushroom-and-a-deadline.html'>Bead Embroidery Funky Mushroom and a Deadline</a></li>
+	<li><a href='http://www.needlenthread.com/2016/04/needlework-news-snips-for-the-end-of-april.html'>Needlework News Snips for the End of April!</a></li>
+	<li><a href='http://www.needlenthread.com/2016/04/weekend-stitching-a-wee-tiny-bird-in-bead-embroidery.html'>Weekend Stitching: A Wee Tiny Bird in Bead Embroidery</a></li>
+	<li><a href='http://www.needlenthread.com/2016/04/online-embroidery-class-sale.html'>Online Embroidery Class Sale &#8211; Get &#8217;em While You Can!</a></li>
+      </ul>
+    </div>
+  </div>
+</div></div>
+<div id="post_entry">
+  <div class="post_meta">
+    <div class="post_top"></div>
+    <div class="post_index">
+      <div class="post_title">
+        <div class="calendar"> </div>
+      </div>
+      <div class="post_content">
+        <h1 style="margin-top: 20px;">404 - File Not Found</h1>
+        <p>Sorry. We're still experiencing moving pains. Please try using the search box on the left to find the page you are looking for. If that doesn't work, then please have patience. This error has been logged and we'll get right to fixing the link that took you here.</p>
+      </div>
+          </div>
+    <div class="post_bottom"></div>
+  </div>
+  <div class="clear_content"></div>
+</div>
+<div id="sidebars">
+  <div class="widget_sidebar">
+    <!--[if IE]>
+<style type="text/css">
+.nwwrap {background-position: left -8px;}
+</style>
+<![endif]-->
+	
+	<!-- Newsletter -->
+    <div class="div_wrap_sidebar">
+      <div class="top_sidebar"> </div>
+      <div class="nwwrap"> <img src="/wp-content/themes/needles/images/widgets/needle-n-thread-daily-newsletter.gif" width="148" height="36" alt="Needle 'n Thread Daily Newsletter" class="nwslettersignuph1">
+        <form method="post" action="http://www.aweber.com/scripts/addlead.pl" target="_new">
+          <input type="text" class="nw" name="from" value="Enter Email Address"  onFocus="clearDefault(this)"/>
+          <input type="hidden" name="meta_web_form_id" value="875610978">
+          <input type="hidden" name="meta_split_id" value="">
+          <input type="hidden" name="unit" value="needlenthread">
+          <input type="hidden" name="redirect" value="http://www.aweber.com/form/thankyou_vo.html" id="redirect_6e11a4500b5b532588c07ae143526cb0">
+          <input type="hidden" name="meta_redirect_onlist" value="">
+          <input type="hidden" name="meta_adtracking" value="">
+          <input type="hidden" name="meta_message" value="1">
+          <input type="hidden" name="meta_required" value="from">
+          <input type="hidden" name="meta_forward_vars" value="0">
+          <div class="cc"></div>
+          <input name="" type="image" src="/wp-content/themes/needles/images/widgets/subscribe.gif" alt="Subscribe" class="nwsubmit" >
+        </form>
+        <div class="cc"> </div>
+      </div>
+      <div class="bottom_sidebar"> </div>
+    </div>
+    
+    
+    
+    <!-- AD RIGHT COLUMN #1 -->
+    <div class="div_wrap_sidebar" style="text-align:right; background-image:none; margin-top:1px;"> 
+    <a href="https://www.etsy.com/shop/colourcomplements" target="_blank"><img src="http://www.needlenthread.com/wp-content/uploads/2016/04/colour-complements-04.jpg" alt=“Colour Complements Hand Dyed Needlework Threads“ width="242" height="200" border="0"></a>
+    </div>
+    <!-- END AD RIGHT COLUMN #1 -->
+    
+    
+    
+    <!-- Subscribe -->
+    <div class="div_wrap_sidebar">
+      <div class="top_sidebar"> </div>
+      <div id="feed"><a href="http://feeds.feedburner.com/needlenthread" target="_blank"><img src="/wp-content/themes/needles/images/feed.jpg" width="31" height="32" alt="Subscribe to our web feed"><span>Subscribe to our web feed</span></a></div>
+      <div class="bottom_sidebar"> </div>
+    </div>
+	
+	<!-- About Mary -->
+    <div class="div_wrap_sidebar">
+      <div class="top_sidebar"></div>
+      <h2 style="padding-left:8px; padding-bottom:5px;"><a href="/about"><img src="/wp-content/themes/needles/images/widgets/Who-is-Mary-Corbet.gif" width="135" height="15" alt="Who is Mary Corbet" style="margin-top:6px;"></a></h2>
+      <div class="sr"><img src="http://www.needlenthread.com/wp-content/themes/needles/images/author.jpg" alt=""  class="alignleft" style="padding:1px;" /> <span class="sp" style="font-size:11px; line-height:16px; color:#3f1e00;">I learned to embroider when I was a kid, when everyone was really into cross stitch (remember the ’80’s?). Eventually, I migrated to surface embroidery, teaching myself with whatever I could get my hands on...&nbsp;&nbsp;<a href="/about">read more&gt;</a></span> </div>
+      <div class="cc"> </div>
+      <div class="bottom_sidebar"></div>
+    </div>
+    <div class="typ"> <a href="/types-of-hand-embroidery"><img src="/wp-content/themes/needles/images/widgets/Types-of-Hand-Embroidery.gif" width="245" height="41" alt="Types of Hand Embroidery"></a> </div>
+    
+    
+    <!-- AD RIGHT COLUMN #2 -->
+    <div class="div_wrap_sidebar" style="text-align:right; background-image:none; margin-top:4px; margin-bottom: 8px;"> 
+    	<a href="http://frenchneedle.com/index.html" target="_blank"><img src="http://www.needlenthread.com/wp-content/uploads/2014/09/10-14FrenchNeedleAd.jpg" alt="The French Needle Embroidery Shop" width="242" height="242" border="0"></a>
+    </div>
+    <!-- END AD RIGHT COLUMN #2 -->
+    
+	<!-- Hand Embroidery Link -->
+    <div class="typ"> <a href="/pictures"><img src="/wp-content/themes/needles/images/widgets/Picture-of-Hand-Embroidery.gif" width="245" height="41" alt="Pictures of Hand Embroidery"></a> </div>
+    
+	<!-- AD RIGHT COLUMN #3: -->
+    	<div class="div_wrap_sidebar" style="text-align:right; background-image:none; margin-top:4px; margin-bottom: 8px;"> 
+    	<a href="http://thistle-threads.myshopify.com/products/frostings-club-session-1" target="_blank">
+			<img src="http://www.needlenthread.com/wp-content/uploads/2015/10/thistle-threads-oct-2015.jpg" alt="Thistle Threads" width="242" height="400" border="0">
+		</a>
+    </div>	
+    <!-- END AD RIGHT COLUMN #3 -->
+	
+	<!-- Recent Comments & Featured Book (set in the widget section) -->
+    <div id="text-5" class="widget widget_text"><div class="div_wrap_sidebar"><div class="top_sidebar"></div><h2>Featured Book</h2>			<div class="textwidget"><div id="featuredbook">
+   <a href="http://shop.needlenthread.com/product/lavender-honey-other-little-things">
+      
+      <img src="http://www.needlenthread.com/wp-content/uploads/2013/07/Lavender-Honey1.jpg" width="110" height="110" alt="Lavender Honey & Other Little Things">
+
+      <span class="fbookbooktitle">Lavender Honey & Other Little Things</span>
+
+      <span class="fbookauthor">Mary Corbet</span>
+      <span class="fbookfullreview">Available for Download Now!</span>
+   </a>
+</div>
+
+<div id="featuredbook">
+   <a href="http://shop.needlenthread.com/product/lattice-jumble-sampler-guide">
+      
+      <img src="http://www.needlenthread.com/wp-content/uploads/2013/07/lattice-jumble.jpg" width="110" height="110" alt="Lattice Jumble Sampler Guide">
+
+      <span class="fbookbooktitle">Lattice Jumble Sampler Guide</span>
+
+      <span class="fbookauthor">Mary Corbet</span>
+      <span class="fbookfullreview">Available for Download Now!</span>
+   </a>
+</div>
+
+<div id="featuredbook">
+   <a href="http://shop.needlenthread.com/product/the-marian-medallion-project-from-design-to-delivery">
+      
+      <img src="http://www.needlenthread.com/wp-content/uploads/2013/03/marian-medallion-project-sm.jpg" width="110" height="110" alt="Marian Medallion Project E-Book">
+
+      <span class="fbookbooktitle">The Marian Medallion Project: from Design to Delivery</span>
+
+      <span class="fbookauthor">Mary Corbet</span>
+      <span class="fbookfullreview">Available for Download Now!</span>
+   </a>
+</div>
+
+<div id="featuredbook">
+   <a href="http://www.needlenthread.com/church-embroidery-patterns">
+      
+      <img src="http://www.needlenthread.com/wp-content/uploads/2011/11/Church-Patterns-SM.jpg" width="110" height="110" alt="Church Patterns for Embroidery & Other Arts">
+
+      <span class="fbookbooktitle">Church Patterns for Embroidery & Other Arts: 120 Printable Patterns to Use Today</span>
+
+      <span class="fbookauthor">Mary Corbet</span>
+      <span class="fbookfullreview">Available for Download Now!</span>
+   </a>
+</div>
+
+</div>
+		<div class="bottom_sidebar"></div></div></div><div id="get-recent-comments" class="widget widget_get_recent_comments"><div class="div_wrap_sidebar"><div class="top_sidebar"></div><h2>Recent Comments</h2><div id="get_recent_comments_wrap"><ul>	<li><p>I have been having some fun finding supplies, but let me tell you about a kit I have found. It is...</p><p class="cm"><a href="http://www.needlenthread.com/2016/04/embroidery-kits-vs-sourcing-supplies-value-time-quality-money.html#comment-716495" title="Embroidery Kits vs Sourcing Supplies: Value, Time, Quality &#038; Money, April 6, 2016">Melanie T</a> - <span>1 day 8 hours</span></p></li>
+
+	<li><p>Lovely piece, well worked! <img src="http://www.needlenthread.com/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Funny you should choose to talk about scaling up and down just now...</p><p class="cm"><a href="http://www.needlenthread.com/2016/05/readers-embroidery-new-ideas-for-a-lavender-needlebook.html#comment-716388" title="Reader&#8217;s Embroidery: New Ideas for a Lavender Needlebook, May 6, 2016">Elizabeth Braun</a> - <span>1 day 20 hours</span></p></li>
+
+	<li><p>Everything you said is true &amp; I agree. Easy-peasy!! Love that part of it. But the finished item is not...</p><p class="cm"><a href="http://www.needlenthread.com/2010/12/transfer-eze.html#comment-716203" title="Playing Around with Transfer-Eze, December 23, 2010">Kathy</a> - <span>2 days 12 hours</span></p></li>
+
+	<li><p>Hi, Sheryl &#8211; just click on the letters you want. Each letter is linked to, under the A for that...</p><p class="cm"><a href="http://www.needlenthread.com/2008/06/monograms-for-hand-embroidery-index.html#comment-716116" title="Monograms for Hand Embroidery Index, June 26, 2008">Mary Corbet</a> - <span>2 days 20 hours</span></p></li>
+
+	<li><p>I would like to know how I could get the monogram patterns? I am interested in the Daisy &amp;...</p><p class="cm"><a href="http://www.needlenthread.com/2008/06/monograms-for-hand-embroidery-index.html#comment-716069" title="Monograms for Hand Embroidery Index, June 26, 2008">Sheryl Hysell</a> - <span>3 days 0 hours</span></p></li>
+
+</ul></div><div class="bottom_sidebar"></div></div></div>	
+	<!-- Archives -->
+    <div class="div_wrap_sidebar" id="arc">
+      <div class="top_sidebar"></div>
+            <h2 style="padding-left:8px; padding-bottom:4px;"><a href="http://www.needlenthread.com/2016"><img src="/wp-content/themes/needles/images/widgets/Archives.gif" width="56" height="11" alt="Archives" style="margin-top:6px;"></a></h2>
+      <ul>
+        	<li><a href='http://www.needlenthread.com/2016'>2016</a>&nbsp;(47)</li>
+	<li><a href='http://www.needlenthread.com/2015'>2015</a>&nbsp;(246)</li>
+	<li><a href='http://www.needlenthread.com/2014'>2014</a>&nbsp;(294)</li>
+	<li><a href='http://www.needlenthread.com/2013'>2013</a>&nbsp;(294)</li>
+	<li><a href='http://www.needlenthread.com/2012'>2012</a>&nbsp;(305)</li>
+	<li><a href='http://www.needlenthread.com/2011'>2011</a>&nbsp;(306)</li>
+	<li><a href='http://www.needlenthread.com/2010'>2010</a>&nbsp;(316)</li>
+	<li><a href='http://www.needlenthread.com/2009'>2009</a>&nbsp;(367)</li>
+	<li><a href='http://www.needlenthread.com/2008'>2008</a>&nbsp;(353)</li>
+	<li><a href='http://www.needlenthread.com/2007'>2007</a>&nbsp;(225)</li>
+	<li><a href='http://www.needlenthread.com/2006'>2006</a>&nbsp;(139)</li>
+      </ul>
+      <div class="bottom_sidebar"></div>
+    </div>
+  </div>
+  
+  <!-- Categories -->
+  <div class="div_wrap_sidebar" id="categoriesrightcolumn">
+    <div class="top_sidebar"></div>
+    <h2 style="padding-left:8px; padding-bottom:3px;"><a href="/tags"><img src="/wp-content/themes/needles/images/widgets/Topic-Tags.gif" width="68" height="16" alt="Topic Tags" style="margin-top:5px;"></a></h2>
+    <ul style="padding-left:23px;">
+      	<li class="tag-item tag-item-6"><a href="http://www.needlenthread.com/tag/pictures" title="View all posts filed under pictures">pictures</a> (1018)
+	<li class="tag-item tag-item-8"><a href="http://www.needlenthread.com/tag/needlework-pictures" title="View all posts filed under needlework pictures">needlework pictures</a> (731)
+	<li class="tag-item tag-item-15"><a href="http://www.needlenthread.com/tag/embroidery-tips-and-tricks" title="View all posts filed under embroidery tips and tricks">embroidery tips and tricks</a> (578)
+	<li class="tag-item tag-item-5"><a href="http://www.needlenthread.com/tag/embroidery-projects" title="View all posts filed under Embroidery Projects">Embroidery Projects</a> (466)
+	<li class="tag-item tag-item-3"><a href="http://www.needlenthread.com/tag/embroidery-resources" title="View all posts filed under embroidery resources">embroidery resources</a> (447)
+	<li class="tag-item tag-item-24"><a href="http://www.needlenthread.com/tag/hand-embroidery-stitches" title="View all posts filed under Hand embroidery stitches">Hand embroidery stitches</a> (433)
+	<li class="tag-item tag-item-21"><a href="http://www.needlenthread.com/tag/beginner-embroidery" title="View all posts filed under beginner embroidery">beginner embroidery</a> (396)
+	<li class="tag-item tag-item-10"><a href="http://www.needlenthread.com/tag/goldwork" title="View all posts filed under goldwork">goldwork</a> (364)
+	<li class="tag-item tag-item-18"><a href="http://www.needlenthread.com/tag/silk" title="View all posts filed under silk">silk</a> (353)
+    </ul>
+    <a href="/tags" style="font-size:11px; line-height:2.5em; margin-left:23px; padding-top:5px; display:block;">more tags &gt;</a>
+    <div class="bottom_sidebar"></div>
+  </div>
+</div><div class="cc"></div>
+<!--
+<div id="footerAds" style="height:15px; margin: 0 0 10px 200px;">
+
+<div id="adsensewrapfooter">	<script type="text/javascript">
+
+		google_ad_client = "pub-4679962806345414";
+
+		/* Bottom of Page Links */
+
+		google_ad_slot = "8431531905";
+
+		google_ad_width = 468;
+
+		google_ad_height = 15;
+
+		
+
+    </script>
+
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+
+</div>
+
+<div class="cc"></div>
+-->
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer">
+
+
+
+
+
+
+
+
+
+
+
+<div class="footerleft">
+
+
+
+
+
+
+
+
+
+
+
+<p>Mary Corbet&rsquo;s <b>Needle &lsquo;n Thread</b><br />
+
+
+
+
+
+
+
+
+
+
+
+  Tips, Tricks, and Great Resources for Hand Embroidery</p>
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/index.php" id="bottom-search">
+
+
+
+
+
+
+
+
+
+
+
+<p><center><input name="s" type="text" class="lefts"  value="Search Site"  onFocus="clearDefault(this)"/><input type="submit" value="" class="leftss" style=" cursor:pointer;"/></center></p>
+
+
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="/">Home</a> <span>|</span> <a href="/about">About</a> <span>|</span> <a href="/contact">Contact</a><br>
+
+
+
+  <a href="/videos">How To Videos and Tutorials</a><br>
+
+
+
+  <a href="/tips-techniques">Tips & Techniques for Hand Embroidery</a><br>
+
+
+
+  <a href="/patterns">Free Patterns</a><br>
+
+
+
+  <a href="/pictures">Pictures</a><br>
+
+  <a href="/forum/">Ask &amp; Share</a><br>
+
+  <a href="/books-links">Books & Links</a><br />
+  
+  <a href="http://shop.needlenthread.com/">Shop</a><br></p>
+  
+  
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="footerright">&copy;2016 Needle &rsquo;n Thread. All Rights Reserved. Website design and Wordpress development by <a href="http://www.imagemakers-inc.com" target="_blank">Imagemakers</a></div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer_bg">
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer_panel">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="close_footer"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript' src='http://www.needlenthread.com/wp-includes/js/wp-embed.min.js?ver=4.4.3'></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
