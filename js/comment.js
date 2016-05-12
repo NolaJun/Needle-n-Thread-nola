@@ -2,7 +2,7 @@
 * @Author: yys_wlj
 * @Date:   2016-05-11 15:26:19
 * @Last Modified by:   yys_wlj
-* @Last Modified time: 2016-05-12 13:42:09
+* @Last Modified time: 2016-05-12 14:01:03
 */
 
 'use strict';
@@ -25,17 +25,17 @@ $(document).ready(function() {
 		  // newCounter("dec2", "inc2", "cnt2", 3);
 		// }
 		$('.sub').click(function(event) {
-			var val = $('.number').val();
+			var val = $('input').val();
 			val--;
 			if(val<=0){
 				val=0;
 			}
-			$('.number').text(val);
+			$('input').val(val);
 		});
 		$('.plus').click(function(event) {
-			var val = $('.number').val();
+			var val = $('input').val();
 			val++;
-			$('.number').text(val);
+			$('input').val(val);
 		});
 	}
 });

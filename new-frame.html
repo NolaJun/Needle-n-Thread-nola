@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <script type="text/javascript">
+        	window.onload=function() {
+        		var style = '<style>';
+        			style += '.ctn{width: 1000px;height: 800px;margin: 0 auto;background: #ccc;box-sizing: border-box;}';
+        			style += '.ctn .btns{width: 80px;height: 40px;line-height: 40px;background: #f6f6f7;text-align: center;margin: 20px;}';
+        			style += '.frames{width: 100%;height: 100%;position: relative;top: 0;left: 0;background: rgba(0,0,0,0.5);}';
+        			style += '.frame_text{width: 300px;position: absolute;left: 0;right: 0;margin: 0 auto;top: 100px;height: 300px;background: #09f;}';
+        			style += '.close-btn{width: 30px;height: 30px;line-height: 30px;background: rgba(0,0,0,0.5);border-radius: 50%;text-align: center;color: #fff;position: absolute;right: 20px;top: 20px;}';
+        			style += '</style>';
+        			var head = document.getElementsByTagName('head');
+        			head.html(style);
+        		var frames = '<div class="frames"></div>';
+        		var frame_text = '<div class=""></div>';
+        		var btns = document.getElementsByClassName('btns');
+        		btns.click(function(event) {
+        			var frame = document.getElementsByClassName('frames');
+        			frame.show();
+				});
+        	};
+        </script>
+    </head>
+    <body>
+    	<div class="ctn">
+    		<div class="btns">弹层</div>
+    	</div>
+		<div class="frames">
+			<div class="frame_text">
+				<div class="close-btn">X</div>
+			</div>
+		</div>
+    </body>
+</html>
