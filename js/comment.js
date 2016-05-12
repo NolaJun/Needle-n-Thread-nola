@@ -2,7 +2,7 @@
 * @Author: yys_wlj
 * @Date:   2016-05-11 15:26:19
 * @Last Modified by:   yys_wlj
-* @Last Modified time: 2016-05-11 18:21:50
+* @Last Modified time: 2016-05-12 13:42:09
 */
 
 'use strict';
@@ -18,12 +18,25 @@ $(document).ready(function() {
 	});
 	if($('.select-num a .sub,.select-num a .numbers').attr('display',"block")){
 		var numbers = $('.number').val();
-		addNum(numbers);
-		subNum(numbers);
+		// addNum(numbers);
+		// subNum(numbers);
 		// function(){
 		  // newCounter("sub", "plus", "number", 0);
 		  // newCounter("dec2", "inc2", "cnt2", 3);
 		// }
+		$('.sub').click(function(event) {
+			var val = $('.number').val();
+			val--;
+			if(val<=0){
+				val=0;
+			}
+			$('.number').text(val);
+		});
+		$('.plus').click(function(event) {
+			var val = $('.number').val();
+			val++;
+			$('.number').text(val);
+		});
 	}
 });
 function addNum(numbers){
