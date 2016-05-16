@@ -2,7 +2,7 @@
 * @Author: yys_wlj
 * @Date:   2016-05-11 15:26:19
 * @Last Modified by:   yys_wlj
-* @Last Modified time: 2016-05-12 14:01:03
+* @Last Modified time: 2016-05-16 10:25:50
 */
 
 'use strict';
@@ -18,12 +18,6 @@ $(document).ready(function() {
 	});
 	if($('.select-num a .sub,.select-num a .numbers').attr('display',"block")){
 		var numbers = $('.number').val();
-		// addNum(numbers);
-		// subNum(numbers);
-		// function(){
-		  // newCounter("sub", "plus", "number", 0);
-		  // newCounter("dec2", "inc2", "cnt2", 3);
-		// }
 		$('.sub').click(function(event) {
 			var val = $('input').val();
 			val--;
@@ -31,13 +25,20 @@ $(document).ready(function() {
 				val=0;
 			}
 			$('input').val(val);
-		});
+		});/*数值自减1*/
 		$('.plus').click(function(event) {
 			var val = $('input').val();
 			val++;
 			$('input').val(val);
-		});
+		});/*数值自增1*/
 	}
+	// if($('.select-num a .sub,.select-num a .numbers').is(":hidden")){
+	// 	return;
+	// }else{
+	// 	var numbers = $('.number').val();
+	// 	addNum(numbers);
+	// 	subNum(numbers);
+	// }
 });
 function addNum(numbers){
 	// var numbers = $('.number').val();
